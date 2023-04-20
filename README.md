@@ -12,6 +12,7 @@ Given a record of every transaction during a three month period, calculate the r
 * Make up a data set to best demonstrate your solution
 * Check solution into GitHub
 
+Access: http://localhost:8080/swagger-ui/
 ------------------------------------------------------------
 
 

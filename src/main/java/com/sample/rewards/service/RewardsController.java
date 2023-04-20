@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.sample.rewards.model.Users;
 
-@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 public class RewardsController {
 
